@@ -1,0 +1,126 @@
+{
+  "data": {
+    "couriers": [
+      {
+        "courierCode": "007ex",
+        "courierName": "007ex",
+        "website": null,
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "139express",
+        "courierName": "139express",
+        "website": "http://www.139express.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "17postservice",
+        "courierName": "17 Post Service",
+        "website": null,
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "feia",
+        "courierName": "17Feia",
+        "website": "http://www.17feia.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "xpo-logistics",
+        "courierName": "XPO Logistics",
+        "website": "https://ltl-solutions.xpo.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "xpost",
+        "courierName": "Xpost",
+        "website": "https://xpost.ph/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yifan-international",
+        "courierName": "YIFAN international",
+        "website": "http://www.ywyfgj.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "elian-post",
+        "courierName": "Yilian (Elian) Supply Chain",
+        "website": "http://www.elianpost.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yimidida",
+        "courierName": "YiMiDiDa",
+        "website": "https://www.yimidida.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yji",
+        "courierName": "YJI (YanJin International)",
+        "website": "http://www.yanjin-gj.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yunlu",
+        "courierName": "YL express",
+        "website": "https://www.jet-logistics.com/",
+        "isPost": false,
+        "countryCode": "CN",
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yuanhao-logistics",
+        "courierName": "YuanHao Logistics",
+        "website": "http://www.mzlyuanhao.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yue777",
+        "courierName": "Yuema Express",
+        "website": "http://www.yue777.com/",
+        "isPost": false,
+        "countryCode": "US",
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yusen-logistics",
+        "courierName": "Yusen Logistics",
+        "website": "https://www.yusen-logistics.com/en/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "yuteng",
+        "courierName": "YUTENG",
+        "website": "http://www.yutengguoji.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      }
+    ]
+  }
+}
